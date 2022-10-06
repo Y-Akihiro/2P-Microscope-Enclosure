@@ -11,7 +11,11 @@ This repository contains supplementary materials for the adjustable dispersion c
 * *panel design* - contain AutoCAD (.***) files.
 >>
 <p align="center">
-	<img width="300" src="https://github.com/Y-Akihiro/Dispersion-Compensation-Unit/blob/main/img/baseplate.png">
+	<img width="300" src="https://github.com/Y-Akihiro/2P-Microscope-Enclosure/blob/main/img/AOD-scope_enclosure.png">
+</p>
+
+<p align="center">
+	<img width="300" src="https://github.com/Y-Akihiro/2P-Microscope-Enclosure/blob/main/img/HyperScope_enclosure.png">
 </p>
 
 * *Item List* - contains the lists of items purchased from Thorlabs and Wasatch Photonics.
