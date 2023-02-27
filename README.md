@@ -6,6 +6,7 @@ Two enclosure designs for:
 <p align="center">
 	<img width="300" src="https://github.com/Y-Akihiro/2P-Microscope-Enclosure/blob/main/img/AOD-scope_enclosure.png">
 </p>
+
 - A Dual-beam Two-photon Microscope (customized [HyperScope](https://www.scientifica.uk.com/products/scientifica-hyperscope) by Scientifica)
 <p align="center">
 	<img width="300" src="https://github.com/Y-Akihiro/2P-Microscope-Enclosure/blob/main/img/HyperScope_enclosure.png">
@@ -13,18 +14,17 @@ Two enclosure designs for:
 
 
 ## Description
-This repository contains supplementary materials for the adjustable dispersion compensation paper under the following directories:
+This repository contains supplementary materials for the microscope enclosure under the following directories:
 
-* *BOM* - contains the paper and a supplementary document.
-* *panel design* - contain AutoCAD (.***) files.
-* *Item List* - contains the lists of items purchased from Thorlabs and Wasatch Photonics.
-* *img* - contains images of the compensator design and the setup.
+* *AOD-Microscope* - contains Bill of Materials and AutoCAD (.dwg and .pdf) files for the random-access 2P microscope.
+* *Dual-beam-microscope* - contains Bill of Materials and AutoCAD (.dwg and .pdf) files for the dual-beam 2P microscope.
+* *img* - contains images of the enclosure designs.
 
 
 ## Software & Packages
-The following software and packages were used for design and analysis:
+The following software and packages were used for the design:
 * AutoCAD 2017
-	* Used to design the compensation unit base plate and make a 3D model of the compensation unit.
+	* Used to design the 3D model of the enclosure boxes.
 	* [AutoQuoterX](https://8020.net/aqx) plugin on AutoCAD 2017.
 	
 ## License
